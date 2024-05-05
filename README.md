@@ -1,20 +1,16 @@
-# Adrenaline
+# Adrenaline: talk to your codebase
 
-This is an issues-only repository for Adrenaline, **your AI expert on everything technical.**
+Powered by static analysis, vector search, and AI.
 
-Please feel free to create issues for bugs or feature requests –– it's much appreciated. Your feedback will directly impact how Adrenaline improves over time.
+![Demo](https://github.com/shobrook/adrenaline/assets/56707028/9d9d357f-d67e-4020-9874-e2469fe31eee)
 
-## Getting started
+## Usage
 
-Try asking a question on the [Adrenaline website.](https://useadrenaline.com/)
+Adrenaline can be used [here.](https://useadrenaline.com/app)
 
-## Features
+## Acknowledgements
 
-Our goal is to answer _any_ technical question. Right now, this includes questions about:
+Built by Jonathan Shobrook and Malik Drabla. Thanks to:
 
-* General programming concepts
-* GitHub repositories
-* Documentation websites
-* Code snippets
-
-Adrenaline can also search the internet and ground answers in relevant sources, employ multi-step reasoning to answer more complex questions, and even _generate diagrams_ to help explain things.
+- Ramsey Lehman for design feedback
+- Paul Bogdan, Samarth Makhija, Robert Muresan, and Michael Usachenko for various other feedback and contributions
